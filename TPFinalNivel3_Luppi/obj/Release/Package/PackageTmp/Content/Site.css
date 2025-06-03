@@ -1,0 +1,73 @@
+﻿/*sitemaster*/
+.nav-image-btn {
+    background: transparent !important;
+    border: none !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 24px;
+    height: 24px;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: all 0.3s ease;
+}
+
+.avatar.logged-in {
+    border: 3px solid #28a745;
+    box-shadow: 0 0 5px rgba(40, 167, 69, 0.5);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: all 0.3s ease;
+    background: transparent !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-image-btn input[type="image"] {
+    width: 1.2em !important;
+    height: 1.2em !important;
+    object-fit: contain;
+    transition: all 0.3s ease;
+}
+
+.nav-image-btn:hover input[type="image"] {
+    opacity: 0.7;
+}
+
+.nav-image-btn.filtro-activo {
+    border: 2px solid red !important;
+    border-radius: 50%;
+}
+
+
+/*detalle producto y formarticulos*/
+.form-column {
+    width: 50%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+/*validator home y abm*/
+.validator-error {
+    position: absolute;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+    display: block;
+    width: 100%;
+    padding-top: 0;
+}
+
+/* Asegura que el contenedor tenga espacio para el error sin mover elementos */
+.mb-3.position-relative {
+    padding-bottom: 1.5rem; /* Espacio reservado para el mensaje */
+}

@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\bin\Release\negocio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\bin\Release\negocio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\bin\Release\dominio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\bin\Release\dominio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\obj\Release\negocio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\obj\Release\negocio.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\obj\Release\negocio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\negocio\obj\Release\negocio.pdb

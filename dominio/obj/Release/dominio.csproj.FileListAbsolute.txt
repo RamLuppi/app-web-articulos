@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\dominio\bin\Release\dominio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\dominio\bin\Release\dominio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\dominio\obj\Release\dominio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\dominio\obj\Release\dominio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel3_Luppi\dominio\obj\Release\dominio.pdb

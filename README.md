@@ -20,5 +20,8 @@ Aplicación web para gestionar el catálogo de productos de un comercio, con acc
 - **Base de datos**: SQL Server.  
 
 ### 🔐 Credenciales de prueba (Admin)  
-**Usuario**: `admin@admin.com`  
-**Contraseña**: `admin`  
+**Usuario**: `admin@admin.com`.  
+**Contraseña**: `admin`.
+
+## ✨ Pagina funcionando
+http://apparticulos.somee.com/  

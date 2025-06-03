@@ -16,7 +16,7 @@ Aplicación web para gestionar el catálogo de productos de un comercio, con acc
 
 ## 🛠️ Tecnologías  
 - **Backend**: C# (.NET) con arquitectura en capas.  
-- **Frontend**: HTML/CSS/JavaScript (o framework como Bootstrap).  
+- **Frontend**: HTML/CSS/JavaScript/Bootstrap.  
 - **Base de datos**: SQL Server.  
 
 ### 🔐 Credenciales de prueba (Admin)  
